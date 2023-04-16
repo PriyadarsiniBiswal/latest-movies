@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/latest-movies/static/css/main.1f5d4877.css",
+    "main.css": "/latest-movies/static/css/main.b28e7edb.css",
     "main.js": "/latest-movies/static/js/main.0fc27150.js",
     "static/js/787.ae18e3fd.chunk.js": "/latest-movies/static/js/787.ae18e3fd.chunk.js",
     "index.html": "/latest-movies/index.html",
-    "main.1f5d4877.css.map": "/latest-movies/static/css/main.1f5d4877.css.map",
+    "main.b28e7edb.css.map": "/latest-movies/static/css/main.b28e7edb.css.map",
     "main.0fc27150.js.map": "/latest-movies/static/js/main.0fc27150.js.map",
     "787.ae18e3fd.chunk.js.map": "/latest-movies/static/js/787.ae18e3fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f5d4877.css",
+    "static/css/main.b28e7edb.css",
     "static/js/main.0fc27150.js"
   ]
 }
