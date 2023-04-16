@@ -49,14 +49,7 @@ const Search = () => {
       {/* <span className="pageTitle">Search</span>
       style={{ display: "flex", margin: "15px 0" }} */}
       <ThemeProvider theme={darkTheme}>
-        <div
-          style={{
-            display: "flex",
-            alineItem: "center",
-            justifyContent: "center",
-            width: 1000,
-          }}
-        >
+        <div className="searchInput-bar">
           <TextField
             style={{ flex: 1 }}
             className="searchBox"
@@ -66,7 +59,7 @@ const Search = () => {
           />
           <button
             variant="contained"
-            style={{ marginLeft: 10, paddingLeft: 12, paddingRight: 12 }} onClick={fetchSearch}
+            style={{ marginLeft: 10, padding: 12 }} onClick={fetchSearch}
           >
             { } <SearchIcon />{" "}
           </button>
